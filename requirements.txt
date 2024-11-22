@@ -1,0 +1,12 @@
+numpy
+torch
+accelerate
+transformers
+matplotlib
+pandas
+datasets
+librosa
+ipykernel
+torchsummary
+sounddevice
+openai-whisper
